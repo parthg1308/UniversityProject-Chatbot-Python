@@ -19,6 +19,6 @@ It's a very Informative Session that discloses about ChatBots and Their Internal
 This Session is useful for both Technical and Non-Technical Persons.
 
 To get the Source Code, Follow me on Github -
-Github - https://github.com/FreeBirdsCrew/AI_ChatBot_Python
+Github - [https://github.com/FreeBirdsCrew/AI_ChatBot_Python](https://github.com/parthg1308/UniversityProject-Chatbot-Python.git)
 
 The More You Analyze, More You Get Insights from the Data.
